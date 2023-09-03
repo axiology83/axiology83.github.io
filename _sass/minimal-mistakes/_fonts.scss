@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "MaruBuri";
+    src: url("/assets/fonts/MaruBuri-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "MaruBuri";
+    src: url("/assets/fonts/MaruBuri-SemiBold.ttf") format("truetype");
+    font-weight: 600; // SemiBold는 대개 600으로 표시됩니다.
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "MaruBuri";
+    src: url("/assets/fonts/MaruBuri-Bold.ttf") format("truetype");
+    font-weight: bold; // 또는 700
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "MaruBuri";
+    src: url("/assets/fonts/MaruBuri-Light.ttf") format("truetype");
+    font-weight: 300; // Light는 대개 300으로 표시됩니다.
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "MaruBuri";
+    src: url("/assets/fonts/MaruBuri-ExtraLight.ttf") format("truetype");
+    font-weight: 200; // ExtraLight는 대개 200으로 표시됩니다.
+    font-style: normal;
+  }
+  
